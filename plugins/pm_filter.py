@@ -830,11 +830,9 @@ async def advantage_spell_chok(msg):
     movielist = list(dict.fromkeys(movielist))  # removing duplicates
     if not movielist:
         k = await msg.reply("I couldn't find anything related to that. Check your spelling")
-    buttons = [
-        [
+    buttons = [[
             InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', url="https://t.me/cinimalinksz")
-        ]
-        ]
+    ]]
     reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
             photo=random.choice(PICS),
