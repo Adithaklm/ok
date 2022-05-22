@@ -835,9 +835,7 @@ async def advantage_spell_chok(msg):
             InlineKeyboardButton('🚸 ᴅᴇʟᴇᴛᴇ', url="https://t.me/cinimalinksz")
         ]
         ]
-        await asyncio.sleep(8)
-        await k.delete()
-        return
+       
     SPELL_CHECK[msg.message_id] = movielist
     btn = [[
         InlineKeyboardButton(
