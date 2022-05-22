@@ -32,10 +32,8 @@
 - [x] sᴘᴇʟʟɪɴɢ ᴄʜᴇᴄᴋ ғᴇᴀᴛᴜʀᴇ 
 - [x] ғɪʟᴇ sᴛᴏʀᴇ
 
-
-```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/EvaMariaSupport)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/film_housc)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
