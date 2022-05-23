@@ -509,8 +509,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "comp":
         buttons = [[
-            InlineKeyboardButton('👩‍🦯 Back', callback_data='help'),
-            InlineKeyboardButton('⏹️ Buttons', callback_data='button')
+            InlineKeyboardButton('🔹 ᴄʜᴀɴɴᴇʟ', url='https://t.me/film_hous'),
+            InlineKeyboardButton('🔹 ɢʀᴏᴜᴘ', url='https://t.me/film_housc')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
